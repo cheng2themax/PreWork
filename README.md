@@ -38,7 +38,7 @@ With a greater time flexibility, I will definitely look into the enhanced versio
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Roger Cheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
